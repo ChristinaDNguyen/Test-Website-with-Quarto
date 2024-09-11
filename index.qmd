@@ -1,0 +1,11 @@
+---
+title: "Welcome to my page."
+---
+
+I'm a first-year PhD student at the University of Toronto. I like pictures of cats hugging cats. I also like apple juice, a lot.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
